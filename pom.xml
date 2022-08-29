@@ -21,7 +21,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.amboiko.Main</mainClass>
+                            <mainClass>com.amboiko.exchanger.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
